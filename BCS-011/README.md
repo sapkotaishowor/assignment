@@ -1,35 +1,42 @@
 # BACHELOR OF COMPUTER APPLICATIONS(BCA)
-## ASSIGNMENTS (SEMESTER I)
-
-|Course Code |Assignment No.|Last Submission|
-|:------------:|:--------------:|:---------------:|
-|FEG-02| BCA(1)-02/Assignment/22-23| 31st October, 2022|
-|ECO-01| BCA(1)-01/Assignment/22-23| 31st October, 2022|
-|BCA-011| BCA(1)-011/Assignment/22-23| 31st October, 2022|
-|BCS-012|BCA(1)-012/Assignment/22-23| 31st October, 2022|
-|BCSL-013|BCA(1)L-013/Assignment/22-23| 31st October, 2022|
-
-### Assignment I
+## Assignment I
 |  |  |  |
 |-------------|-------------|---------|
-|Course Code |:| ECO-01 |
-|Course Title |:| Business Organization| 
+|Course Code |:| BCS-011 |
+|Course Title |:| Computer Basics and PC Software| 
 |Assignment Number |:| BCA (1)/01/Assignment/2022-23|
 |Maximum Marks |:| 100|
 |Weightage |:| 30%|
 |Last Dates for Submission |:| 31st October, 2022|
 
-#### <u> **Question Paper** </u> 
-**There are five questions in this assignment which carried 100 marks.Answer all the questions. Please go through the guidelines regarding Assignments given in the Program Guide for the format of presentation.Attempt all the questions:**
-#### Q1. What are the essential features of business? List different objectives of business. (10+10)
-#### Q2. What is capital structure? Describe factors that determine the capital structure. (2+18)
-#### Q3. Discuss various arguments in support of and against advertising. (20)
-#### Q4. Discuss the pervasiveness of risk in business. Describe briefly the management of business risks. (10+10)
-#### Q5. Comment briefly on the following statements: (4 x 5)
- a) An entrepreneur is a good judge of which products will sell.   
- b) Stock exchange plays a very important role in the economic development of a country.  
- c) There are various reasons of the government participating in business.  
- d) The government company form of organization suffers from certain limitations.  
+### <u> **Question Paper** </u> 
+** This assignment has three questions of 80 marks. Answer all the questions. Rest 20 marks
+are for viva voce. You may use illustrations and diagrams to enhance explanations. Please
+go through the guidelines regarding assignments given in the Programme Guide for the
+format of presentation. Please give precise answers. The word limit for each part is 200
+words. **
+**Q1. (Covers Block 1) (7×4=28)**
+\t **a) What is VLSI? How did it change the design of a computer system? Explain the working of
+von Neumann Architecture with the help a diagram. Also explain the process of execution of
+an instruction for a von Neumann machine.
+b) What are the different standards of representing character in a computer? Name and explain
+any two such standards with the help of examples. List the ASCII codes of all the decimal
+digits.**
+c) Convert the following numbers as directed
+(i) Decimal 197.0625 into equivalent binary and hexadecimal.
+(ii) Decimal 4567654 into binary and hexadecimal
+(iii) String “Character Codes of alphabets and special character $ #” to ASCII
+and UNICODE strings.
+(iv) Hexadecimal ABCDFFED to decimal and binary
+d) What is the need of ROM in a computer? How is it different to RAM? Why is cache memory
+needed even if a computer has RAM and ROM? Why secondary memory is needed?
+e) Explain the disk layout of Hard disk and CD-ROM? Also, explain the access time of
+magnetic disk and CD-ROM. Which of these has smaller access time?
+f) Compare and contrast the following technologies:
+(i) Parallel port and Serial port
+(ii) Mouse and Light pen
+(iii) Voice based input and Keyboard input
+(iv) Inkjet printers and Laser printers 
 
 #### <u> **Answer Sheets** </u>
 |Page 1|
