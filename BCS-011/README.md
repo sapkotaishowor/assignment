@@ -10,15 +10,15 @@
 |Last Dates for Submission |:| 31st October, 2022|
 
 ### <u> **Question Paper** </u> 
-** This assignment has three questions of 80 marks. Answer all the questions. Rest 20 marks
+**This assignment has three questions of 80 marks. Answer all the questions. Rest 20 marks
 are for viva voce. You may use illustrations and diagrams to enhance explanations. Please
 go through the guidelines regarding assignments given in the Programme Guide for the
 format of presentation. Please give precise answers. The word limit for each part is 200
-words. **
+words.**
 **Q1. (Covers Block 1) (7×4=28)**
 \t **a) What is VLSI? How did it change the design of a computer system? Explain the working of
 von Neumann Architecture with the help a diagram. Also explain the process of execution of
-an instruction for a von Neumann machine.
+an instruction for a von Neumann machine.**
 b) What are the different standards of representing character in a computer? Name and explain
 any two such standards with the help of examples. List the ASCII codes of all the decimal
 digits.**
