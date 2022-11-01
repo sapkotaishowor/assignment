@@ -10,6 +10,8 @@
 |BCSL-013|BCA(1)L-013/Assignment/22-23| 31st October, 2022|
 
 ### Assignment I
+|  |  |  |
+|-------------|-------------|---------|
 |Course Code |:| ECO-01 |
 |Course Title |:| Business Organization| 
 |Assignment Number |:| BCA (1)/01/Assignment/2022-23|
