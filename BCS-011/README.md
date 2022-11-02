@@ -55,9 +55,9 @@ words.**
 ###### **(i) int n = 10;**
 ###### **&nbsp;&nbsp;&nbsp;&nbsp;int i, x=1;**
 ###### **(ii) for (i=1; i<=n; i=i+2)**
-###### **{**
+###### **&nbsp;&nbsp;&nbsp;&nbsp;{**
 ###### **(iii) x = x * i;**
-###### **}**
+###### **&nbsp;&nbsp;&nbsp;&nbsp;}**
 (iv)printf ("The final value is %d ", x);
 g) Identify the software or type of software that will be required for the following situations.
 Also, explain the steps that would be performed to solve the situation in question, if
