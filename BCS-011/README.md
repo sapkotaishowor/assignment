@@ -85,7 +85,7 @@ words.**
 ###### (i) E-mail
 ###### (ii) Collaborations
 
-#### <u> **Answer Sheets** </u>
+#### <u> **Answer Sheets** </u> <a href="images/Assignment-BCS-011.pdf"> Download All </a>
 |Page 1|
 |:-----------------------------------------:|
 | ![Business Structure](images/Page01.jpg "Page 1")|
@@ -182,3 +182,11 @@ words.**
 |Page 21|
 |:--------------------------------------------------:|
 | ![Business Structure](images/Page21.jpg "Page 21")|
+
+|Page 22|
+|:--------------------------------------------------:|
+| ![Business Structure](images/Page21.jpg "Page 22")|
+
+|Page 23|
+|:--------------------------------------------------:|
+| ![Business Structure](images/Page21.jpg "Page 23")|
