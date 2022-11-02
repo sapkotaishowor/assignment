@@ -12,9 +12,9 @@
 **Note: This assignment has 15 questions of 80 marks (Q.no.1 to 14 are of 5 marks each, Q15 carries 10 marks). Answer all the questions. Rest 20 marks are for viva voce. You may use illustrations and diagrams to enhance explanations. Please go through the guidelines regarding assignments given in the Programme Guide for the format of presentation.**
 
 #### Q1. Solve the following system of equations by using Matrix Inverse Method.
-    1. 3x+ 4y+ 7z= 14
-    2. 2x-y+ 3z= 4
-    3. 2x + 2y - 3z = 0
+1. 3x+ 4y+ 7z= 14
+2. 2x-y+ 3z= 4
+3. 2x + 2y - 3z = 0
 #### Q2. Use principle of Mathematical Induction to prove that:
 $\frac{1}{1X2}+\frac{1}{2X3}+.........+\frac{1}{nX(n+1)}=\frac{n}{(n+1)}$
 #### Q3. How many terms of G.P  $\sqrt{3}, 3 , 3\sqrt{3}, .......$ Add up to 39
