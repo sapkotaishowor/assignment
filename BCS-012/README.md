@@ -16,8 +16,8 @@
     2. 2x-y+ 3z= 4
     3. 2x + 2y - 3z = 0
 #### Q2. Use principle of Mathematical Induction to prove that: 
-$\frac{1}{1*2}$
-$+$
+
+$\frac{1}{1*2} +$
 $\frac{1}{2*3}$
 $+ ........ +$
 $\frac{1}{n*(n+1)}$
