@@ -16,6 +16,10 @@
     2. 2x-y+ 3z= 4
     3. 2x + 2y - 3z = 0
 #### Q2. Use principle of Mathematical Induction to prove that: ####
+
+
+
+
 $1\over 1*2$
 $+$
 $1\over 2*3$
