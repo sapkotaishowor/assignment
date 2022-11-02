@@ -23,6 +23,7 @@ $+ ........ +$
 $\frac{1}{n*(n+1)}$
 $=$
 $\frac{n}{n+1}$ 
+$1\over 2*3$
 #### Q3. How many terms of G.P  $\sqrt{3}, 3 , 3\sqrt{3}, .......$ Add up to 39
 #### Q4. If $y = a.e^{mx} + b.e^{-mx}$, Prove that $d^2y/dx^2 = m^2y$
 #### Q5. For what value of 'k' the points (-k + 1, 2k), (k, 2 - 2k) and ( - 4 - k, 6 - 2k) are collinear.
