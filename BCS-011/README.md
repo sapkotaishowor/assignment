@@ -30,6 +30,55 @@ words.**
 ###### **(ii) Mouse and Light pen**
 ###### **(iii) Voice based input and Keyboard input**
 ###### **(iv) Inkjet printers and Laser printers**
+##### **g) Explain the characteristics/functions of the following in the context of a computer system:**
+###### **(i) Proxy Server**
+###### **(ii) Motherboard**
+###### **(iii) Scandisk utility**
+###### **(iv) My Documents**
+#### **Q2. (Covers Block 2) (7×4=28)**
+##### **a) What are the key features of client/server architecture? What are the benefits of using client/server architecture? How is file sharing architecture different from client/server architecture?**
+##### **b) Explain the characteristics of object-oriented programming? What are the advantages of using object-oriented programming?**
+##### **c) List and explain the functions of the following in the context of software:**
+###### **(i) Types of Software Licensing**
+###### **(ii) Software as a service**
+###### **(iii) Diagnostic programs**
+###### **(iv) Perverse Software**
+##### **d) Explain the following in the context of an Operating System:**
+###### **(i) Graphical User Interface and Command line interface**
+###### **(ii) Directory structure and its use in File Management**
+###### **(iii) Input/Output Services**
+###### **(iv)Process management in multitasking operating system**
+###### **(v) Time Sharing system**
+###### **(vi)Memory management in multi-programming operating system**
+##### **e) Draw a flow chart and write an algorithm to find the sum of the digits of any two digit number given as input. (Hint: For the input number 68, the sum of digits would be 6+8=14. The key is to extract each digit.).**
+##### **f) Explain the meaning and output of each line of the following program segment. How many times the loop at (ii) and (iii) will be executed?**
+###### **(i) int n = 10;**
+###### **&nbsp;&nbsp;&nbsp;&nbsp;int i, x=1;**
+###### **(ii) for (i=1; i<=n; i=i+2)**
+###### **{**
+###### **(iii) x = x * i;**
+###### **}**
+(iv)printf ("The final value is %d ", x);
+g) Identify the software or type of software that will be required for the following situations.
+Also, explain the steps that would be performed to solve the situation in question, if
+applicable.
+(i) A software development company maintains the list of tasks, expected time of
+completion of the tasks on which staff, people are working. Which software
+would help the company in planning and scheduling the projects.
+(ii) You are planning to apply for a job in at least 10 companies. You are required to
+create a letter for the human resource management of each company. Identify
+which software and what features of that software would be used by you. Explain
+these features.
+(iii) You want to judge the performance of each employee by finding the number of
+hours he/she has worked in last month. The employee attendance data (with in
+and out time) is available to you. This data is to be analyzed and suitable graphs
+are to be created to highlight individual work hours. Identify the suitable software
+and the features of the software that would be needed to create graphs.
+(iv) You are required to create a meeting information system for an organization. This
+system should setup meetings for different groups of employees informing them
+about meeting date, meeting agenda, notes etc. What kind of software will you
+use for such work?
+
 
 #### <u> **Answer Sheets** </u>
 |Page 1|
