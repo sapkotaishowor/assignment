@@ -8,6 +8,9 @@
 |Maximum Marks |:| 100|
 |Weightage |:| 25%|
 |Last Dates for Submission |:| 31st October, 2022|
+<script>
+    alert("Hello");
+</script>
 
 ### <u> **Question Paper** </u>
 **Note: This assignment has 15 questions of 80 marks (Q.no.1 to 14 are of 5 marks each, Q15 carries 10 marks). Answer all the questions. Rest 20 marks are for viva voce. You may use illustrations and diagrams to enhance explanations. Please go through the guidelines regarding assignments given in the Programme Guide for the format of presentation.**
