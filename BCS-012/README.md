@@ -37,7 +37,6 @@ $\frac{1}{1X2}+\frac{1}{2X3}+.........+\frac{1}{nX(n+1)}=\frac{n}{(n+1)}$
 |:-----------------------------------------:|
 | ![Business Structure](images/Page01.jpg "Page 1")|
 
-
 |Page 2|
 |:--------------------------------------------------:|
 | ![Business Structure](images/Page02.jpg "Page 2")|
