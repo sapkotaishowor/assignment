@@ -1,15 +1,5 @@
 # BACHELOR OF COMPUTER APPLICATIONS(BCA)
-## ASSIGNMENTS (SEMESTER I)
-
-|Course Code |Assignment No.|Last Submission|
-|:------------:|:--------------:|:---------------:|
-|FEG-02| BCA(1)-02/Assignment/22-23| 31st October, 2022|
-|ECO-01| BCA(1)-01/Assignment/22-23| 31st October, 2022|
-|BCA-011| BCA(1)-011/Assignment/22-23| 31st October, 2022|
-|BCS-012|BCA(1)-012/Assignment/22-23| 31st October, 2022|
-|BCSL-013|BCA(1)L-013/Assignment/22-23| 31st October, 2022|
-
-### Assignment I
+## Assignment I
 |  |  |  |
 |-------------|-------------|---------|
 |Course Code |:| ECO-01 |
@@ -19,19 +9,19 @@
 |Weightage |:| 30%|
 |Last Dates for Submission |:| 31st October, 2022|
 
-#### <u> **Question Paper** </u> 
+### <u> **Question Paper** </u> 
 **There are five questions in this assignment which carried 100 marks.Answer all the questions. Please go through the guidelines regarding Assignments given in the Program Guide for the format of presentation.Attempt all the questions:**
 #### Q1. What are the essential features of business? List different objectives of business. (10+10)
 #### Q2. What is capital structure? Describe factors that determine the capital structure. (2+18)
 #### Q3. Discuss various arguments in support of and against advertising. (20)
 #### Q4. Discuss the pervasiveness of risk in business. Describe briefly the management of business risks. (10+10)
 #### Q5. Comment briefly on the following statements: (4 x 5)
- a) An entrepreneur is a good judge of which products will sell.   
- b) Stock exchange plays a very important role in the economic development of a country.  
- c) There are various reasons of the government participating in business.  
- d) The government company form of organization suffers from certain limitations.  
+ ##### a) An entrepreneur is a good judge of which products will sell.   
+ ##### b) Stock exchange plays a very important role in the economic development of a country.  
+ ##### c) There are various reasons of the government participating in business.  
+ ##### d) The government company form of organization suffers from certain limitations.  
 
-#### <u> **Answer Sheets** </u>
+### <u> **Answer Sheets** </u>
 |Page 1|
 |:-----------------------------------------:|
 | ![Business Structure](images/Page01.jpg "Page 1")|
