@@ -16,7 +16,7 @@
     2. 2x-y+ 3z= 4
     3. 2x + 2y - 3z = 0
 #### Q2. Use principle of Mathematical Induction to prove that:
-$1/(1*2) + 1/(2*4) + .......+ 1/{n*(n=2)} = n/(n+1)$
+1/(1*2) + 1/(2*4) + .......+ 1/{n*(n+2)} = n/(n+1)
 #### Q3. How many terms of G.P  $\sqrt{3}, 3 , 3\sqrt{3}, .......$ Add up to 39
 #### Q4. If 
 $y = a.e^{mx} + b.e^{-mx}$, Prove that $d^2y/dx^2 = m^2y$
