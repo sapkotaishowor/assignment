@@ -18,8 +18,7 @@
 #### Q2. Use principle of Mathematical Induction to prove that:
 $\frac{1}{1X2}+\frac{1}{2X3}+.........+\frac{1}{nX(n+1)}=\frac{n}{(n+1)}$
 #### Q3. How many terms of G.P  $\sqrt{3}, 3 , 3\sqrt{3}, .......$ Add up to 39
-#### Q4. If 
-$y = a.e^{mx} + b.e^{-mx}$, Prove that $d^2y/dx^2 = m^2y$
+#### Q4. If $y = a.e^{mx} + b.e^{-mx}$, Prove that $d^2y/dx^2 = m^2y$
 #### Q5. For what value of 'k' the points (-k + 1, 2k), (k, 2 - 2k) and ( - 4 - k, 6 - 2k) are collinear.
 #### Q6. Evaluate $\int \frac{xdx}{(x+1)(2x−1)}$ and $\int \frac{dx}{(e^x-1)^2}$
 #### Q7. If $1, w, w^2$ are cube roots of unity show that $(1+ w)^2 - (1 + w)^3 + w^2 = 0$.
