@@ -24,7 +24,7 @@ poor work for their enforced leisure during the off season and an addition to (h
 #### Q4. You are the President of the Students Union in your college. Write a report in 250 words of a meeting held to discuss the forthcoming Annual Sports Function. (20)
 #### Q5. Write a report in 250 words of an interview you had with a Sports Star. (20)
 #### Q6. Write a composition of 250-300 words based on any one of the pictures given below: (20)
-![Business Structure](images/picture_composition.png "Image")
+![Business Structure](images/picture_composition.PNG "Image")
 ### <u> **Answer Sheets** </u>
 |Page 1|
 |:-----------------------------------------:|
