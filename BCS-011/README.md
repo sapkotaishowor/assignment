@@ -59,26 +59,31 @@ words.**
 **&nbsp;&nbsp;&nbsp;&nbsp;(iii) x = x * i;**<br>
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}**<br>
 **&nbsp;&nbsp;&nbsp;&nbsp;(iv) printf ("The final value is %d ", x);**<br>
-g) Identify the software or type of software that will be required for the following situations.
-Also, explain the steps that would be performed to solve the situation in question, if
-applicable.
-(i) A software development company maintains the list of tasks, expected time of
-completion of the tasks on which staff, people are working. Which software
-would help the company in planning and scheduling the projects.
-(ii) You are planning to apply for a job in at least 10 companies. You are required to
-create a letter for the human resource management of each company. Identify
-which software and what features of that software would be used by you. Explain
-these features.
-(iii) You want to judge the performance of each employee by finding the number of
-hours he/she has worked in last month. The employee attendance data (with in
-and out time) is available to you. This data is to be analyzed and suitable graphs
-are to be created to highlight individual work hours. Identify the suitable software
-and the features of the software that would be needed to create graphs.
-(iv) You are required to create a meeting information system for an organization. This
-system should setup meetings for different groups of employees informing them
-about meeting date, meeting agenda, notes etc. What kind of software will you
-use for such work?
+##### **g) Identify the software or type of software that will be required for the following situations.Also, explain the steps that would be performed to solve the situation in question, if applicable.**
+###### (i) A software development company maintains the list of tasks, expected time of completion of the tasks on which staff, people are working. Which software would help the company in planning and scheduling the projects.
+###### (ii) You are planning to apply for a job in at least 10 companies. You are required to create a letter for the human resource management of each company. Identify which software and what features of that software would be used by you. Explain these features.
+###### (iii) You want to judge the performance of each employee by finding the number of hours he/she has worked in last month. The employee attendance data (with in and out time) is available to you. This data is to be analyzed and suitable graphs are to be created to highlight individual work hours. Identify the suitable software and the features of the software that would be needed to create graphs.
+###### (iv) You are required to create a meeting information system for an organization. This system should setup meetings for different groups of employees informing them about meeting date, meeting agenda, notes etc. What kind of software will you use for such work?
 
+#### Q3. (Covers Block 3) (6×4=24)
+##### (a) What are the advantages of Computer Networks? Explain the following terms in the context of computer networks:
+###### (i) Mode of transmission
+###### (ii) Packet and Circuit Switching
+###### (iii) Optical Fiber
+###### (iv) Radio Wave transmission
+##### (b) Explain the characteristics of Bus topology and Ring topology. Also explain the characteristics of LAN and WAN. List one application each of LAN and WAN.
+##### (c) Explain the functions of the following in the context of networking:
+###### (i) Modem
+###### (ii) Network Interface cards
+###### (iii) Repeaters
+###### (iv) OSI model
+##### (d) What is a URL and IP address? How are they related? How URL can be converted to an IP address? Explain with the help of an example. Explain how a subnet mask 255.255.255.0 will be able to help in identifying various components of an IP address.
+##### (e) What is a search engine? What are the basic actions performed by a search engine? Explain. What would be search terms if you are looking forward to the following:
+###### (i) List of Universities offering PhD Programme in Computer Science
+###### (ii) List of Browsing software.
+##### (f) Explain the following in the context of Internet and its applications:
+###### (i) E-mail
+###### (ii) Collaborations
 
 #### <u> **Answer Sheets** </u>
 |Page 1|
