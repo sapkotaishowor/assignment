@@ -52,13 +52,13 @@ words.**
 ###### **(vi)Memory management in multi-programming operating system**
 ##### **e) Draw a flow chart and write an algorithm to find the sum of the digits of any two digit number given as input. (Hint: For the input number 68, the sum of digits would be 6+8=14. The key is to extract each digit.).**
 ##### **f) Explain the meaning and output of each line of the following program segment. How many times the loop at (ii) and (iii) will be executed?**
- **&nbsp;&nbsp;&nbsp;&nbsp;(i) int n = 10;**<br>
- **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int i, x=1;** <br>
- **&nbsp;&nbsp;&nbsp;&nbsp;(ii) for (i=1; i<=n; i=i+2)**<br>
- **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{**<br>
- **&nbsp;&nbsp;&nbsp;&nbsp;(iii) x = x * i;**<br>
- **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}**<br>
-(iv)printf ("The final value is %d ", x);
+**&nbsp;&nbsp;&nbsp;&nbsp;(i)&nbsp;&nbsp;int n = 10;**<br>
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int i, x=1;** <br>
+**&nbsp;&nbsp;&nbsp;&nbsp;(ii)&nbsp;for (i=1; i<=n; i=i+2)**<br>
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{**<br>
+**&nbsp;&nbsp;&nbsp;&nbsp;(iii)x = x * i;**<br>
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}**<br>
+**&nbsp;&nbsp;&nbsp;&nbsp;(iv)&nbsp;printf ("The final value is %d ", x);**<br>
 g) Identify the software or type of software that will be required for the following situations.
 Also, explain the steps that would be performed to solve the situation in question, if
 applicable.
